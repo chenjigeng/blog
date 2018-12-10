@@ -2,6 +2,8 @@
 
 有空的话就会写一下博客，欢迎star和watch。
 
+* [你真的了解回流和重绘吗](https://github.com/chenjigeng/blog/blob/master/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E5%9B%9E%E6%B5%81%E5%92%8C%E9%87%8D%E7%BB%98%E5%90%97.md)
+* [一道面试题引起的思考](https://github.com/chenjigeng/blog/blob/master/%E4%B8%80%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BC%95%E8%B5%B7%E7%9A%84%E6%80%9D%E8%80%83.md)
 * [css加载会造成阻塞吗？](https://github.com/chenjigeng/blog/blob/master/css%E5%8A%A0%E8%BD%BD%E4%BC%9A%E9%80%A0%E6%88%90%E9%98%BB%E5%A1%9E%E5%90%97%EF%BC%9F.md)
 * [不到50行代码实现一个能对请求并发数做限制的通用RequestDecorator](https://github.com/chenjigeng/blog/blob/master/%E4%B8%8D%E5%88%B050%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E8%83%BD%E5%AF%B9%E8%AF%B7%E6%B1%82%E5%B9%B6%E5%8F%91%E6%95%B0%E5%81%9A%E9%99%90%E5%88%B6%E7%9A%84%E9%80%9A%E7%94%A8RequestDecorator.md)
 * [使用装饰者模式做有趣的事情](https://github.com/chenjigeng/blog/blob/master/%E4%BD%BF%E7%94%A8%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F%E5%81%9A%E6%9C%89%E8%B6%A3%E7%9A%84%E4%BA%8B%E6%83%85.md)
