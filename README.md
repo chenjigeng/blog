@@ -2,6 +2,7 @@
 
 有空的话就会写一下博客，欢迎star和watch。
 
+* [一道有意思的面试算法题](https://github.com/chenjigeng/blog/blob/master/%E4%B8%80%E9%81%93%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E9%9D%A2%E8%AF%95%E7%AE%97%E6%B3%95%E9%A2%98.md)
 * [你真的了解回流和重绘吗](https://github.com/chenjigeng/blog/blob/master/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E5%9B%9E%E6%B5%81%E5%92%8C%E9%87%8D%E7%BB%98%E5%90%97.md)
 * [一道面试题引起的思考](https://github.com/chenjigeng/blog/blob/master/%E4%B8%80%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BC%95%E8%B5%B7%E7%9A%84%E6%80%9D%E8%80%83.md)
 * [css加载会造成阻塞吗？](https://github.com/chenjigeng/blog/blob/master/css%E5%8A%A0%E8%BD%BD%E4%BC%9A%E9%80%A0%E6%88%90%E9%98%BB%E5%A1%9E%E5%90%97%EF%BC%9F.md)
