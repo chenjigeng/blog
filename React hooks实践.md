@@ -227,3 +227,5 @@ function Parent({ a, b }) {
 ![](http://img.111cn.net/attachment/art/166435/ae347058c4.jpeg)
 
 当然，现在react hooks还是在alpha阶段，如果大家觉得不放心的话，可以再等等。反正我就先下手玩玩了哈哈哈。
+
+本文地址在->[本人博客地址](https://github.com/chenjigeng/blog/issues/2), 欢迎给个 start 或 follow
