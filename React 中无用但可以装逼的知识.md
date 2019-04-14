@@ -81,7 +81,7 @@ console.log(Greeting.prototype.isReactComponent);
 
 
 
-## React Elements为什么要有一个$typeof属性
+## React Elements为什么要有一个$$typeof属性
 
 假如我们的jsx长这个样子：
 
