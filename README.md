@@ -1,6 +1,6 @@
 # 个人博客
 
-有空的话就会写一下博客，欢迎star和watch。
+有空的话就会写一下博客，欢迎star和watch。博客已迁移到issues。
 
 * [一道有意思的面试算法题](https://github.com/chenjigeng/blog/blob/master/%E4%B8%80%E9%81%93%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E9%9D%A2%E8%AF%95%E7%AE%97%E6%B3%95%E9%A2%98.md)
 * [你真的了解回流和重绘吗](https://github.com/chenjigeng/blog/blob/master/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E5%9B%9E%E6%B5%81%E5%92%8C%E9%87%8D%E7%BB%98%E5%90%97.md)
